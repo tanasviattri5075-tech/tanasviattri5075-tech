@@ -100,12 +100,3 @@ tanasvi = {
 
 </div>
 
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tanasviattri5075-tech&color=00e5a0&style=flat-square&label=PROFILE+VIEWS)
-
-```
-// keep building. keep breaking. keep learning.
-```
-
-</div>
