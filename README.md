@@ -59,7 +59,7 @@ tanasvi = {
 | [🧠 Face Mesh Detection](https://github.com/tanasviattri5075-tech/Face-Mesh) | Real-time 468-point facial landmark detection & mesh visualization | Python · OpenCV · MediaPipe |
 | [⌨️ Virtual Keyboard](https://github.com/tanasviattri5075-tech/Virtual-Keyboard) | Touchless typing using hand gestures & webcam | Python · OpenCV · MediaPipe |
 | [👏 Double Clap Detection](https://github.com/tanasviattri5075-tech/Double-Clap-Detection) | Trigger actions using double clap sound detection | Python · PyAudio · NumPy |
-| [🎵 Music Player](https://tanasviattri5075-tech.github.io/Music-Player-/) | Responsive music player with playlist, shuffle & seek | HTML · CSS · JavaScript |
+| [🎵 Music Player](https://github.com/tanasviattri5075-tech/Music-Player-) | Responsive music player with playlist, shuffle & seek | HTML · CSS · JavaScript |
 
 ---
 
@@ -67,9 +67,9 @@ tanasvi = {
 
 <div align="center">
 
-![Tanasvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanasviattri5075-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5a0&icon_color=9d91ff&text_color=e8eaf0&bg_color=0d1117)
+![Tanasvi's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tanasviattri5075-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5a0&icon_color=9d91ff&text_color=e8eaf0&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanasviattri5075-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5a0&text_color=e8eaf0&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tanasviattri5075-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5a0&text_color=e8eaf0&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanasviattri5075-tech&theme=tokyonight&hide_border=true&ring=00e5a0&fire=9d91ff&currStreakLabel=00e5a0)
 
@@ -84,11 +84,21 @@ tanasvi = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanasvi-attri-68384b35b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanasvi.attri.5075@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanasviattri5075-tech)
-[![Live Demo](https://img.shields.io/badge/Music_Player-Live_Demo-00e5a0?style=for-the-badge&logo=github-pages&logoColor=white)](https://tanasviattri5075-tech.github.io/Music-Player-/)
+
 
 </div>
 
 ---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=tanasviattri5075-tech&color=00e5a0&style=flat-square&label=PROFILE+VIEWS)
+
+```
+// keep building. keep breaking. keep learning.
+```
+
+</div>
 
 <div align="center">
 
