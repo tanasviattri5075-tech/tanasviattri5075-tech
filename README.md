@@ -11,7 +11,7 @@
 
 ### `> Tanasvi Attri_`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5A0&center=true&vCenter=true&width=500&lines=B.Tech+2nd+Year+%7C+ECM+%40+JIIT;Computer+Vision+%7C+Web+Dev+%7C+Audio+Processing;Always+learning%2C+always+building.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=B.Tech+3rd+Year+%7C+ECM+%40+JIIT;Computer+Vision+%7C+Web+Dev+%7C+Audio+Processing;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ tanasvi = {
     "name"       : "Tanasvi Attri",
     "college"    : "Jaypee Institute of Information Technology",
     "degree"     : "B.Tech — Electronics, Communication & Media (ECM)",
-    "year"       : "3nd Year",
+    "year"       : "3rd Year",
     "interests"  : ["Computer Vision", "Web Development", "Audio Processing"],
     "currently"  : "Building cool stuff with Python, OpenCV & JavaScript 👾",
 }
