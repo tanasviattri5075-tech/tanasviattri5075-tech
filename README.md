@@ -11,7 +11,7 @@
 
 ### `> Tanasvi Attri_`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=B.Tech+3rd+Year+%7C+ECM+%40+JIIT;Computer+Vision+%7C+Web+Dev+%7C+Audio+Processing;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5001&pause=1000&color=D91FF7&width=588&lines=B.Tech+3rd+Year+%7C+ECM+%40+JIIT;Computer+Vision+%7C+Web+Dev+%7C+Audio+Processing;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
