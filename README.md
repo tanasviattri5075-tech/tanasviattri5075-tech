@@ -24,7 +24,7 @@ tanasvi = {
     "name"       : "Tanasvi Attri",
     "college"    : "Jaypee Institute of Information Technology",
     "degree"     : "B.Tech — Electronics, Communication & Media (ECM)",
-    "year"       : "2nd Year",
+    "year"       : "3nd Year",
     "interests"  : ["Computer Vision", "Web Development", "Audio Processing"],
     "currently"  : "Building cool stuff with Python, OpenCV & JavaScript 👾",
 }
