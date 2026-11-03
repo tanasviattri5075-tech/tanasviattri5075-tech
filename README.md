@@ -72,7 +72,6 @@ tanasvi = {
 ![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tanasviattri5075-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5a0&text_color=e8eaf0&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanasviattri5075-tech&theme=tokyonight&hide_border=true&ring=00e5a0&fire=9d91ff&currStreakLabel=00e5a0)
-
 </div>
 
 ---
