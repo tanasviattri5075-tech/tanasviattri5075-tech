@@ -67,11 +67,14 @@ tanasvi = {
 
 <div align="center">
 
-![Tanasvi's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tanasviattri5075-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5a0&icon_color=9d91ff&text_color=e8eaf0&bg_color=0d1117)
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tanasviattri5075-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5a0&icon_color=9d91ff&text_color=e8eaf0&bg_color=0d1117" width="48%" />
 
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tanasviattri5075-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5a0&text_color=e8eaf0&bg_color=0d1117)
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tanasviattri5075-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5a0&text_color=e8eaf0&bg_color=0d1117" width="48%" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tanasviattri5075-tech&theme=tokyonight&hide_border=true&ring=00e5a0&fire=9d91ff&currStreakLabel=00e5a0)
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=tanasviattri5075-tech&theme=tokyonight&hide_border=true&ring=00e5a0&fire=9d91ff&currStreakLabel=00e5a0" width="70%" />
+
 </div>
 
 ---
